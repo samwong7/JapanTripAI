@@ -10,4 +10,7 @@
     "react": "latest",
     "react-native": "latest"
   }
+  "engines": {
+  "node": ">=20.12.0"
+  }
 }
