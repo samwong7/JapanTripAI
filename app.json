@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Japan Trip AI",
+    "slug": "japan-trip-ai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.japantripai.app"
+    }
+  }
+}
